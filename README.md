@@ -39,6 +39,6 @@
 **8.** Use the *Signup* and *Login* functions to perform the authentication flow, then try and access the *Top Secret Area* to hit the protected ASP.NET Core Web API.
 
 ## Contact
-cohuynhhuu@nashtechglobal.com
+co.huynhhuu@nashtechglobal.com
  
 
